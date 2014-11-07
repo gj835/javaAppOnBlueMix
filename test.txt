@@ -1,1 +1,2 @@
-add something by git from ubuntu
+test test
+from ubuntu using git
